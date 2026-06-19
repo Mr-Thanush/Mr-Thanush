@@ -146,6 +146,4 @@ I'm open to:
 
 ### ⭐ If you find my work interesting, please consider giving a star! ⭐
 
-Made by Thanush 
-
 </div>
