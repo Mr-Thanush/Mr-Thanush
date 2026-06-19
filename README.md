@@ -31,29 +31,31 @@ A comprehensive full-stack application analyzing GitHub profiles with intelligen
 - **Stack:** MERN (React, Node.js, Express, MySQL)
 - **Features:** Real-time profile analysis, interactive dashboards, API integration
 - **Impact:** Processes complex GitHub data with optimized performance
+- **Links:** [Visit Live Site](https://thanush-githubanalyzer.onrender.com)
 
 ### 🌐 [MyPortfolio](https://github.com/Mr-Thanush/MyPortFolio)
 Professional portfolio showcasing projects, technical expertise, and professional journey.
 - **Stack:** React.js, Modern CSS, Responsive Design
 - **Features:** Project showcase, smooth animations, SEO optimized
-- **Links:** [Visit Live Site](https://myportfolio-one-gilt-35.vercel.app)
+- **Links:** [Visit Live Site](https://thanush26.vercel.app)
 
 ### 🌤️ [Weather React App](https://github.com/Mr-Thanush/weather-react)
 Real-time weather application with location-based forecasting and dynamic UI.
 - **Stack:** React.js, Weather APIs, CSS3
 - **Features:** Current weather, 7-day forecast
-- **Links:** [Try Live Demo](https://weather-react-one-lilac.vercel.app)
+- **Links:** [Try Live Demo](https://react-weather26.vercel.app)
 
 ### 🏠 [HomeBuzz](https://github.com/Mr-Thanush/HomeBuzz)
 Community engagement platform for home-related services and connections.
 - **Stack:** JavaScript, Full-Stack Architecture
 - **Features:** User authentication, service marketplace
+- **Links:** [Visit Live Site](https://homebuzz-gmwr.onrender.com)
 
 ### ✅ [Todo List App](https://github.com/Mr-Thanush/Js-TodoList)
 Feature-rich task management application with persistent local storage.
 - **Stack:** Vanilla JavaScript, HTML5, CSS3
 - **Features:** Add/edit/delete tasks, local storage persistence, filtering
-- **Links:** [Try Live App](https://todo-list-eight-tau-85.vercel.app)
+- **Links:** [Try Live App](https://todo-list26.vercel.app)
 
 ---
 
@@ -124,8 +126,8 @@ I'm open to:
 - 🚀 Innovative startup ideas
 
 ### 📱 Connect With Me
-- 💼 [LinkedIn](www.linkedin.com/in/thanush26) - Professional networking
-- 🌐 [Portfolio](https://myportfolio-one-gilt-35.vercel.app) - Project showcase
+- 💼 [LinkedIn](https://www.linkedin.com/in/thanush26/) - Professional networking
+- 🌐 [Portfolio](https://thanush26.vercel.app) - Project showcase
 - 📧 Email: thanush.2645@gmail.com - Direct contact
 - 💬 Open to DMs on GitHub
 
